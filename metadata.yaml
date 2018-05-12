@@ -1,0 +1,30 @@
+_repo: Faces-and-Places_25624
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lucy, Henry W. (Henry William), Sir
+    alias: Toby, M.P.
+    birthdate: 1845
+    deathdate: 1924
+    gutenberg_agent_id: '31470'
+    url: http://www.gutenberg.org/2009/agents/31470
+description: ''
+gutenberg_issued: '2008-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25624'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Description and travel'
+- !lcc 'PR'
+- !lcsh 'English wit and humor'
+- !lcsh 'France -- Description and travel'
+- !lcsh 'Essays'
+title: Faces and Places
+url: http://www.gutenberg.org/ebooks/25624
