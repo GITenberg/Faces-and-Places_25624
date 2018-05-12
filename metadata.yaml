@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31470'
     url: http://www.gutenberg.org/2009/agents/31470
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25624#Faces-and-Places
 gutenberg_issued: '2008-05-27'
 gutenberg_type: Text
 identifiers:
